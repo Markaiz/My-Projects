@@ -1,0 +1,1870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>White Purple Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Ajime&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>Hello</string>
+					<string>Teacher</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Start</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Mate&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Student</string>
+					<string>Roll</string>
+					<string>Belt</string>
+				</array>
+				<key>correct</key>
+				<string>Stop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Sensei&quot; is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Your School Teacher </string>
+					<string>Your Mom</string>
+					<string>Your Trainer</string>
+					<string>Your Student</string>
+				</array>
+				<key>correct</key>
+				<string>Your Trainer</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Rei&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>&quot;Ajime&quot;</string>
+					<string>Bow</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Our Judo Club Name is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Avengers</string>
+					<string>Samurai do</string>
+					<string>Justice League</string>
+					<string>Real Madrid</string>
+				</array>
+				<key>correct</key>
+				<string>Samurai do</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Purple Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>How you say &quot;Belt&quot; in Japanese? </string>
+				<key>answers</key>
+				<array>
+					<string>Obi</string>
+					<string>Sensei</string>
+					<string>Ajime</string>
+					<string>Judo</string>
+				</array>
+				<key>correct</key>
+				<string>Obi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How you say &quot;Stop&quot; in Japanese? </string>
+				<key>answers</key>
+				<array>
+					<string>Mate</string>
+					<string>Sensei</string>
+					<string>Ajime</string>
+					<string>Judo</string>
+				</array>
+				<key>correct</key>
+				<string>Mate</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>When we bow in our Judo class we call it -</string>
+				<key>answers</key>
+				<array>
+					<string>Rei</string>
+					<string>Ajime</string>
+					<string>Sensei</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Rei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>When we sit on our kneels we call it ?</string>
+				<key>answers</key>
+				<array>
+					<string>Sensei</string>
+					<string>Suzuki</string>
+					<string>Seiza</string>
+					<string>Samurai do</string>
+				</array>
+				<key>correct</key>
+				<string>Seiza</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How do you call your Judo Trainer</string>
+				<key>answers</key>
+				<array>
+					<string>Brother</string>
+					<string>Father</string>
+					<string>Sensei</string>
+					<string>Hulk</string>
+				</array>
+				<key>correct</key>
+				<string>Sensei</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Yellow Purple Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Ajime&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>Hello</string>
+					<string>Teacher</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Start</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How do you call your Judo Trainer</string>
+				<key>answers</key>
+				<array>
+					<string>Brother</string>
+					<string>Father</string>
+					<string>Sensei</string>
+					<string>Hulk</string>
+				</array>
+				<key>correct</key>
+				<string>Sensei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Rei&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>&quot;Ajime&quot;</string>
+					<string>Bow</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Mate&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Student</string>
+					<string>Roll</string>
+					<string>Belt</string>
+				</array>
+				<key>correct</key>
+				<string>Stop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Yellow Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>&quot;Ippon&quot; means?</string>
+				<key>answers</key>
+				<array>
+					<string>Victory in one move</string>
+					<string>Start a fight</string>
+					<string>Rolling on the ground</string>
+					<string>Sushi</string>
+				</array>
+				<key>correct</key>
+				<string>Victory in one move</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is Judo?</string>
+				<key>answers</key>
+				<array>
+					<string>The Jedai way</string>
+					<string>Victory in one move</string>
+					<string>The gentle way</string>
+					<string>The force way</string>
+				</array>
+				<key>correct</key>
+				<string>The gentle way</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>A point in Judo near Ippon</string>
+				<key>answers</key>
+				<array>
+					<string>Uke</string>
+					<string>Tori</string>
+					<string>Waza Ari</string>
+					<string>Ippon</string>
+				</array>
+				<key>correct</key>
+				<string>Waza Ari</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How do you call your Judo Trainer</string>
+				<key>answers</key>
+				<array>
+					<string>Brother</string>
+					<string>Father</string>
+					<string>Sensei</string>
+					<string>Hulk</string>
+				</array>
+				<key>correct</key>
+				<string>Sensei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Mate&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Student</string>
+					<string>Roll</string>
+					<string>Belt</string>
+				</array>
+				<key>correct</key>
+				<string>Stop</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Rei&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>&quot;Ajime&quot;</string>
+					<string>Bow</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Yellow Orange Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>What is Judo?</string>
+				<key>answers</key>
+				<array>
+					<string>The Jedai way</string>
+					<string>Victory in one move</string>
+					<string>The gentle way</string>
+					<string>The force way</string>
+				</array>
+				<key>correct</key>
+				<string>The gentle way</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Rei&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>&quot;Ajime&quot;</string>
+					<string>Bow</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How do you call your Judo Trainer</string>
+				<key>answers</key>
+				<array>
+					<string>Brother</string>
+					<string>Father</string>
+					<string>Sensei</string>
+					<string>Hulk</string>
+				</array>
+				<key>correct</key>
+				<string>Sensei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Tori is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Thor the thunder God</string>
+					<string>Judoka executing techinque</string>
+					<string>Judoka receiving techinque</string>
+					<string>Judo student</string>
+				</array>
+				<key>correct</key>
+				<string>Judoka executing techinque</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judoka who receiving opponent&apos;s attack</string>
+				<key>answers</key>
+				<array>
+					<string>Tori</string>
+					<string>Uke</string>
+					<string>Seiza</string>
+					<string>Ukemi</string>
+				</array>
+				<key>correct</key>
+				<string>Uke</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Uchikomi&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Competition fight</string>
+					<string>Practice of a throwing motion</string>
+					<string>Judo Mat</string>
+					<string>Judo Student</string>
+				</array>
+				<key>correct</key>
+				<string>Practice of a throwing motion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Tatami is?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Mat</string>
+					<string>Judo Rat</string>
+					<string>Judo Fight</string>
+					<string>Judo Punch</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Mat</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Orange Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>What is Judo?</string>
+				<key>answers</key>
+				<array>
+					<string>The Jedai way</string>
+					<string>Victory in one move</string>
+					<string>The gentle way</string>
+					<string>The force way</string>
+				</array>
+				<key>correct</key>
+				<string>The gentle way</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Rei&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>&quot;Ajime&quot;</string>
+					<string>Bow</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judoka who receiving opponent&apos;s attack</string>
+				<key>answers</key>
+				<array>
+					<string>Tori</string>
+					<string>Uke</string>
+					<string>Seiza</string>
+					<string>Ukemi</string>
+				</array>
+				<key>correct</key>
+				<string>Uke</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Uchikomi&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Competition fight</string>
+					<string>Practice of a throwing motion</string>
+					<string>Judo Mat</string>
+					<string>Judo Student</string>
+				</array>
+				<key>correct</key>
+				<string>Practice of a throwing motion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Tatami is?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Mat</string>
+					<string>Judo Rat</string>
+					<string>Judo Fight</string>
+					<string>Judo Punch</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Mat</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Soremade&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Samurai do </string>
+					<string>Standing bow</string>
+					<string>Contest time up</string>
+				</array>
+				<key>correct</key>
+				<string>Contest time up</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hiki-wake</string>
+				<key>answers</key>
+				<array>
+					<string>Tie or Draw</string>
+					<string>Penalty</string>
+					<string>Victory</string>
+					<string>Winner</string>
+				</array>
+				<key>correct</key>
+				<string>Tie or Draw</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Osaekomi at judo contest means?</string>
+				<key>answers</key>
+				<array>
+					<string>Referee call to begin timing</string>
+					<string>Free sparring</string>
+					<string>Tie or Draw</string>
+					<string>Repetition training</string>
+				</array>
+				<key>correct</key>
+				<string>Referee call to begin timing</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Referee call for judge&apos;s decision</string>
+				<key>answers</key>
+				<array>
+					<string>Hajime</string>
+					<string>Hantei</string>
+					<string>Dojo</string>
+					<string>Osaekomi</string>
+				</array>
+				<key>correct</key>
+				<string>Hantei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Dojo is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo training hall</string>
+					<string>Judo training</string>
+					<string>Judo student</string>
+					<string>Judo belt</string>
+				</array>
+				<key>correct</key>
+				<string>Judo training hall</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Green Orange Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Our Judo Club Name is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Avengers</string>
+					<string>Samurai do</string>
+					<string>Justice League</string>
+					<string>Real Madrid</string>
+				</array>
+				<key>correct</key>
+				<string>Samurai do</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Rei&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>&quot;Ajime&quot;</string>
+					<string>Bow</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>How do you call your Judo Trainer</string>
+				<key>answers</key>
+				<array>
+					<string>Brother</string>
+					<string>Father</string>
+					<string>Sensei</string>
+					<string>Hulk</string>
+				</array>
+				<key>correct</key>
+				<string>Sensei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Tatami is?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Mat</string>
+					<string>Judo Rat</string>
+					<string>Judo Fight</string>
+					<string>Judo Punch</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Mat</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is Judo?</string>
+				<key>answers</key>
+				<array>
+					<string>The Jedai way</string>
+					<string>Victory in one move</string>
+					<string>The gentle way</string>
+					<string>The force way</string>
+				</array>
+				<key>correct</key>
+				<string>The gentle way</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Rei&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>&quot;Ajime&quot;</string>
+					<string>Bow</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Uchikomi&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Competition fight</string>
+					<string>Practice of a throwing motion</string>
+					<string>Judo Mat</string>
+					<string>Judo Student</string>
+				</array>
+				<key>correct</key>
+				<string>Practice of a throwing motion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Soremade&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Samurai do </string>
+					<string>Standing bow</string>
+					<string>Contest time up</string>
+				</array>
+				<key>correct</key>
+				<string>Contest time up</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hiki-wake</string>
+				<key>answers</key>
+				<array>
+					<string>Tie or Draw</string>
+					<string>Penalty</string>
+					<string>Victory</string>
+					<string>Winner</string>
+				</array>
+				<key>correct</key>
+				<string>Tie or Draw</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Referee call for judge&apos;s decision</string>
+				<key>answers</key>
+				<array>
+					<string>Hajime</string>
+					<string>Hantei</string>
+					<string>Dojo</string>
+					<string>Osaekomi</string>
+				</array>
+				<key>correct</key>
+				<string>Hantei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Dojo is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo training hall</string>
+					<string>Judo training</string>
+					<string>Judo student</string>
+					<string>Judo belt</string>
+				</array>
+				<key>correct</key>
+				<string>Judo training hall</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Te Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Throwing techinques</string>
+					<string>Hand techinques</string>
+					<string>Leg techinques</string>
+					<string>Head techinques</string>
+				</array>
+				<key>correct</key>
+				<string>Hand techinques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Nage Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Hand techniques</string>
+					<string>Throwing techniques</string>
+					<string>Standing techinques</string>
+					<string>Sacrifice techinques</string>
+				</array>
+				<key>correct</key>
+				<string>Throwing techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sutemi Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+					<string>Standing techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Sacrifice techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ashi Waza means ?</string>
+				<key>answers</key>
+				<array>
+					<string>Hand techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Leg techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Leg techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ne Waza</string>
+				<key>answers</key>
+				<array>
+					<string>Ground techniques</string>
+					<string>Leg techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Ground techniques</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Green Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Our Judo Club Name is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Avengers</string>
+					<string>Samurai do</string>
+					<string>Justice League</string>
+					<string>Real Madrid</string>
+				</array>
+				<key>correct</key>
+				<string>Samurai do</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Soremade&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Samurai do </string>
+					<string>Standing bow</string>
+					<string>Contest time up</string>
+				</array>
+				<key>correct</key>
+				<string>Contest time up</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Soremade&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Samurai do </string>
+					<string>Standing bow</string>
+					<string>Contest time up</string>
+				</array>
+				<key>correct</key>
+				<string>Contest time up</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hiki-wake</string>
+				<key>answers</key>
+				<array>
+					<string>Tie or Draw</string>
+					<string>Penalty</string>
+					<string>Victory</string>
+					<string>Winner</string>
+				</array>
+				<key>correct</key>
+				<string>Tie or Draw</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Referee call for judge&apos;s decision</string>
+				<key>answers</key>
+				<array>
+					<string>Hajime</string>
+					<string>Hantei</string>
+					<string>Dojo</string>
+					<string>Osaekomi</string>
+				</array>
+				<key>correct</key>
+				<string>Hantei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Te Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Throwing techinques</string>
+					<string>Hand techinques</string>
+					<string>Leg techinques</string>
+					<string>Head techinques</string>
+				</array>
+				<key>correct</key>
+				<string>Hand techinques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sutemi Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+					<string>Standing techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Sacrifice techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ashi Waza means ?</string>
+				<key>answers</key>
+				<array>
+					<string>Hand techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Leg techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Leg techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ne Waza</string>
+				<key>answers</key>
+				<array>
+					<string>Ground techniques</string>
+					<string>Leg techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Ground techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Yoshi means?</string>
+				<key>answers</key>
+				<array>
+					<string>Mario Turtle</string>
+					<string>Resume action</string>
+					<string>Stop action</string>
+					<string>Techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Resume action</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judo was founded in ?</string>
+				<key>answers</key>
+				<array>
+					<string>Kodokan</string>
+					<string>Judokan</string>
+					<string>Samurai do </string>
+					<string>Dojo</string>
+				</array>
+				<key>correct</key>
+				<string>Kodokan</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>The moment when you break the balance of your opponent - </string>
+				<key>answers</key>
+				<array>
+					<string>Kuzushi</string>
+					<string>Hantei</string>
+					<string>Maai</string>
+					<string>Kyoshi</string>
+				</array>
+				<key>correct</key>
+				<string>Kuzushi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ritsu Rei is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Bow</string>
+					<string>Standing Bow</string>
+					<string>Throwing techniques</string>
+					<string>Sword</string>
+				</array>
+				<key>correct</key>
+				<string>Standing Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judo Contest</string>
+				<key>answers</key>
+				<array>
+					<string>Shido</string>
+					<string>Shihan</string>
+					<string>Seiza</string>
+					<string>Shiai</string>
+				</array>
+				<key>correct</key>
+				<string>Shiai</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sono Mama means?</string>
+				<key>answers</key>
+				<array>
+					<string>Stop action(&quot;freeze&quot;)</string>
+					<string>Call Mom</string>
+					<string>Standing Bow</string>
+					<string>Start action(&quot;unfreeze&quot;)</string>
+				</array>
+				<key>correct</key>
+				<string>Stop action(&quot;freeze&quot;)</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Blue Green Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>Our Judo Club Name is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Avengers</string>
+					<string>Samurai do</string>
+					<string>Justice League</string>
+					<string>Real Madrid</string>
+				</array>
+				<key>correct</key>
+				<string>Samurai do</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ashi Waza means ?</string>
+				<key>answers</key>
+				<array>
+					<string>Hand techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Leg techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Leg techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Soremade&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Stop</string>
+					<string>Samurai do </string>
+					<string>Standing bow</string>
+					<string>Contest time up</string>
+				</array>
+				<key>correct</key>
+				<string>Contest time up</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Hiki-wake</string>
+				<key>answers</key>
+				<array>
+					<string>Tie or Draw</string>
+					<string>Penalty</string>
+					<string>Victory</string>
+					<string>Winner</string>
+				</array>
+				<key>correct</key>
+				<string>Tie or Draw</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Referee call for judge&apos;s decision</string>
+				<key>answers</key>
+				<array>
+					<string>Hajime</string>
+					<string>Hantei</string>
+					<string>Dojo</string>
+					<string>Osaekomi</string>
+				</array>
+				<key>correct</key>
+				<string>Hantei</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Te Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Throwing techinques</string>
+					<string>Hand techinques</string>
+					<string>Leg techinques</string>
+					<string>Head techinques</string>
+				</array>
+				<key>correct</key>
+				<string>Hand techinques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sutemi Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+					<string>Standing techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Sacrifice techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ne Waza</string>
+				<key>answers</key>
+				<array>
+					<string>Ground techniques</string>
+					<string>Leg techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Ground techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judo was founded in ?</string>
+				<key>answers</key>
+				<array>
+					<string>Kodokan</string>
+					<string>Judokan</string>
+					<string>Samurai do </string>
+					<string>Dojo</string>
+				</array>
+				<key>correct</key>
+				<string>Kodokan</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>The moment when you break the balance of your opponent - </string>
+				<key>answers</key>
+				<array>
+					<string>Kuzushi</string>
+					<string>Hantei</string>
+					<string>Maai</string>
+					<string>Kyoshi</string>
+				</array>
+				<key>correct</key>
+				<string>Kuzushi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ritsu Rei is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Bow</string>
+					<string>Standing Bow</string>
+					<string>Throwing techniques</string>
+					<string>Sword</string>
+				</array>
+				<key>correct</key>
+				<string>Standing Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judo Contest</string>
+				<key>answers</key>
+				<array>
+					<string>Shido</string>
+					<string>Shihan</string>
+					<string>Seiza</string>
+					<string>Shiai</string>
+				</array>
+				<key>correct</key>
+				<string>Shiai</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sono Mama means?</string>
+				<key>answers</key>
+				<array>
+					<string>Stop action(&quot;freeze&quot;)</string>
+					<string>Call Mom</string>
+					<string>Standing Bow</string>
+					<string>Start action(&quot;unfreeze&quot;)</string>
+				</array>
+				<key>correct</key>
+				<string>Stop action(&quot;freeze&quot;)</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Waza</string>
+				<key>answers</key>
+				<array>
+					<string>Technique</string>
+					<string>Hand</string>
+					<string>Throw</string>
+					<string>Bow</string>
+				</array>
+				<key>correct</key>
+				<string>Technique</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Shodan is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judoka promotion</string>
+					<string>Judoka food</string>
+					<string>Judoka bow</string>
+					<string>Judoka weapon</string>
+				</array>
+				<key>correct</key>
+				<string>Judoka promotion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Kumikata means?</string>
+				<key>answers</key>
+				<array>
+					<string>Resume action</string>
+					<string>Contest</string>
+					<string>Gripping methods</string>
+					<string>Hand techinques</string>
+				</array>
+				<key>correct</key>
+				<string>Gripping methods</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Yoko</string>
+				<key>answers</key>
+				<array>
+					<string>Front</string>
+					<string>Side</string>
+					<string>Back</string>
+					<string>Left</string>
+				</array>
+				<key>correct</key>
+				<string>Side</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Nage</string>
+				<key>answers</key>
+				<array>
+					<string>Side</string>
+					<string>Throw</string>
+					<string>Bow</string>
+					<string>Technique</string>
+				</array>
+				<key>correct</key>
+				<string>Throw</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Blue Belt</string>
+		<key>questions</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>What is &quot;Shido&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>The gentle way</string>
+					<string>Penalty during a Judo contest</string>
+					<string>Contest</string>
+					<string>Kneeling bow</string>
+				</array>
+				<key>correct</key>
+				<string>Penalty during a Judo contest</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sono Mama means?</string>
+				<key>answers</key>
+				<array>
+					<string>Stop action(&quot;freeze&quot;)</string>
+					<string>Call Mom</string>
+					<string>Standing Bow</string>
+					<string>Start action(&quot;unfreeze&quot;)</string>
+				</array>
+				<key>correct</key>
+				<string>Stop action(&quot;freeze&quot;)</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ne Waza</string>
+				<key>answers</key>
+				<array>
+					<string>Ground techniques</string>
+					<string>Leg techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Ground techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>The moment when you break the balance of your opponent - </string>
+				<key>answers</key>
+				<array>
+					<string>Kuzushi</string>
+					<string>Hantei</string>
+					<string>Maai</string>
+					<string>Kyoshi</string>
+				</array>
+				<key>correct</key>
+				<string>Kuzushi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judo Contest</string>
+				<key>answers</key>
+				<array>
+					<string>Shido</string>
+					<string>Shihan</string>
+					<string>Seiza</string>
+					<string>Shiai</string>
+				</array>
+				<key>correct</key>
+				<string>Shiai</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Waza</string>
+				<key>answers</key>
+				<array>
+					<string>Technique</string>
+					<string>Hand</string>
+					<string>Throw</string>
+					<string>Bow</string>
+				</array>
+				<key>correct</key>
+				<string>Technique</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Kumikata means?</string>
+				<key>answers</key>
+				<array>
+					<string>Resume action</string>
+					<string>Contest</string>
+					<string>Gripping methods</string>
+					<string>Hand techinques</string>
+				</array>
+				<key>correct</key>
+				<string>Gripping methods</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Yoko</string>
+				<key>answers</key>
+				<array>
+					<string>Front</string>
+					<string>Side</string>
+					<string>Back</string>
+					<string>Left</string>
+				</array>
+				<key>correct</key>
+				<string>Side</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Nage</string>
+				<key>answers</key>
+				<array>
+					<string>Side</string>
+					<string>Throw</string>
+					<string>Bow</string>
+					<string>Technique</string>
+				</array>
+				<key>correct</key>
+				<string>Throw</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>The moment when you break the balance of your opponent - </string>
+				<key>answers</key>
+				<array>
+					<string>Kuzushi</string>
+					<string>Hantei</string>
+					<string>Maai</string>
+					<string>Kyoshi</string>
+				</array>
+				<key>correct</key>
+				<string>Kuzushi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ritsu Rei is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Bow</string>
+					<string>Standing Bow</string>
+					<string>Throwing techniques</string>
+					<string>Sword</string>
+				</array>
+				<key>correct</key>
+				<string>Standing Bow</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Judo Contest</string>
+				<key>answers</key>
+				<array>
+					<string>Shido</string>
+					<string>Shihan</string>
+					<string>Seiza</string>
+					<string>Shiai</string>
+				</array>
+				<key>correct</key>
+				<string>Shiai</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sono Mama means?</string>
+				<key>answers</key>
+				<array>
+					<string>Stop action(&quot;freeze&quot;)</string>
+					<string>Call Mom</string>
+					<string>Standing Bow</string>
+					<string>Start action(&quot;unfreeze&quot;)</string>
+				</array>
+				<key>correct</key>
+				<string>Stop action(&quot;freeze&quot;)</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Nage Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Hand techniques</string>
+					<string>Throwing techniques</string>
+					<string>Standing techinques</string>
+					<string>Sacrifice techinques</string>
+				</array>
+				<key>correct</key>
+				<string>Throwing techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sutemi Waza means?</string>
+				<key>answers</key>
+				<array>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+					<string>Standing techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Sacrifice techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ashi Waza means ?</string>
+				<key>answers</key>
+				<array>
+					<string>Hand techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Leg techniques</string>
+					<string>Throwing techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Leg techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ne Waza</string>
+				<key>answers</key>
+				<array>
+					<string>Ground techniques</string>
+					<string>Leg techniques</string>
+					<string>Sacrifice techniques</string>
+					<string>Hand techniques</string>
+				</array>
+				<key>correct</key>
+				<string>Ground techniques</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Uchikomi&quot; means</string>
+				<key>answers</key>
+				<array>
+					<string>Competition fight</string>
+					<string>Practice of a throwing motion</string>
+					<string>Judo Mat</string>
+					<string>Judo Student</string>
+				</array>
+				<key>correct</key>
+				<string>Practice of a throwing motion</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Tori is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Thor the thunder God</string>
+					<string>Judoka executing techinque</string>
+					<string>Judoka receiving techinque</string>
+					<string>Judo student</string>
+				</array>
+				<key>correct</key>
+				<string>Judoka executing techinque</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Seiza&quot;</string>
+				<key>answers</key>
+				<array>
+					<string>Kneeling posture</string>
+					<string>Bow</string>
+					<string>Running</string>
+					<string>Teacher</string>
+				</array>
+				<key>correct</key>
+				<string>Kneeling posture</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What means the word &quot;Judoka&quot; ?</string>
+				<key>answers</key>
+				<array>
+					<string>Judo Student</string>
+					<string>Teacher</string>
+					<string>Samurai</string>
+					<string>Batman</string>
+				</array>
+				<key>correct</key>
+				<string>Judo Student</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>A point in Judo near Ippon</string>
+				<key>answers</key>
+				<array>
+					<string>Uke</string>
+					<string>Tori</string>
+					<string>Waza Ari</string>
+					<string>Ippon</string>
+				</array>
+				<key>correct</key>
+				<string>Waza Ari</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>&quot;Sensei&quot; is ?</string>
+				<key>answers</key>
+				<array>
+					<string>Your School Teacher </string>
+					<string>Your Mom</string>
+					<string>Your Trainer</string>
+					<string>Your Student</string>
+				</array>
+				<key>correct</key>
+				<string>Your Trainer</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>What mean the word &quot;Ajime&quot;?</string>
+				<key>answers</key>
+				<array>
+					<string>Hello</string>
+					<string>Teacher</string>
+					<string>Start</string>
+					<string>Stop</string>
+				</array>
+				<key>correct</key>
+				<string>Start</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Repetitive throwing practice</string>
+				<key>answers</key>
+				<array>
+					<string>Uchikomi</string>
+					<string>Randori</string>
+					<string>Nagekomi</string>
+					<string>Harakomi</string>
+				</array>
+				<key>correct</key>
+				<string>Nagekomi</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Sode means ?</string>
+				<key>answers</key>
+				<array>
+					<string>Sleeve</string>
+					<string>Neck</string>
+					<string>Head</string>
+					<string>Hand</string>
+				</array>
+				<key>correct</key>
+				<string>Sleeve</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Ude ?</string>
+				<key>answers</key>
+				<array>
+					<string>Head</string>
+					<string>Arm</string>
+					<string>Leg</string>
+					<string>Side</string>
+				</array>
+				<key>correct</key>
+				<string>Arm</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Pants in japanese</string>
+				<key>answers</key>
+				<array>
+					<string>Sode</string>
+					<string>Kuzushi</string>
+					<string>Judogi</string>
+					<string>Zubon</string>
+				</array>
+				<key>correct</key>
+				<string>Zubon</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Maiita means?</string>
+				<key>answers</key>
+				<array>
+					<string>Give up</string>
+					<string>Time up</string>
+					<string>Head up</string>
+					<string>Stand up</string>
+				</array>
+				<key>correct</key>
+				<string>Give up</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
